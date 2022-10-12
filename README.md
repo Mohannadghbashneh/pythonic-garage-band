@@ -2,12 +2,6 @@
 
 ## Project: Classes & Fixtures
 
-
-### Links and Resources
-
-- [gitignore](www.gitignore.io)
-
-
 ### Setup
 
 #### `.venv` , `.gitignore` , `pytest` requirements 
